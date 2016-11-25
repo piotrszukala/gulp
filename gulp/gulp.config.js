@@ -12,7 +12,7 @@ module.exports = function () {
     html: rootPath + '**/*.html',
     js: rootPath + '**/*.js',
     css: rootPath + dev + '**/*.css',
-    scss: rootPath + src + '**/*.scss',
+    scss: rootPath + src + '**/*.scss'
 
   };
 
